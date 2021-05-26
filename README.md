@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dhinesh
-- 👀 I’m interested in Developing Web based Applications
+- 👀 I’m interested in Developing Applications
 - 🌱 Good Knowledge in Scala
 - 📫 reach me : pdhinesh2014@gmail.com 
 - 📫 Contact me : +91-9585624790
