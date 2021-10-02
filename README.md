@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Dhinesh
-- 👀 I’m interested in Developing Applications
+- 👀 I’m interested in Developing Web Applications
+- 🌱 React Js & Redux + Hooks
 - 🌱 Good Knowledge in Scala
 - 📫 reach me : pdhinesh2014@gmail.com 
 - 📫 Contact me : +91-9585624790
